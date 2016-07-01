@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"DocBlockr",
+		"DocPHPManualer",
+		"Emmet",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"PHPUnit Completions",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Terminal",
+		"Xdebug Client"
+	]
+}
